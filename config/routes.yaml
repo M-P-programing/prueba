@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\XmlgeneratorController::index
+
+load_and_validate_xml:
+  path: /xml
+  controller: App\Controller\XmlgeneratorController::load_and_validate_xml
